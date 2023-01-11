@@ -12,6 +12,8 @@
 <div id="languages" align="center">
 <h1> Languages and tools </h1>
 </div>	
+
+<div id="icons">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="html" width="70" height="70"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"  title="html" width="70" height="70"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="html" width="70" height="70"/>&nbsp;
@@ -22,6 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="70" height="70"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="70" height="70"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="70" height="70"/>&nbsp;
+</div>	
 
 <!--
 **lm201111/lm201111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
