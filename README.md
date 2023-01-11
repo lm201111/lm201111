@@ -13,7 +13,7 @@
 <h1> Languages and tools </h1>
 </div>	
 
-<div id="icons">
+<div id="icons" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="html" width="70" height="70"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"  title="html" width="70" height="70"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="html" width="70" height="70"/>&nbsp;
