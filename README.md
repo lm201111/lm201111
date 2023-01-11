@@ -1,5 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+	<h1> Hi there 👋</h1>
+  <h3>I'm Max from Ulyanovsk</h3>
+</div>  
 
+<div id="socials" align="center">
+	<a href="telegram-url">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
+Биогра
 <!--
 **lm201111/lm201111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
