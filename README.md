@@ -10,7 +10,7 @@
 </div>
 
 <div id="languages" align="center">
-<h1> Languages and tools </h1>
+<h1> :hammer_and_wrench: Languages and tools </h1>
 </div>	
 
 <div id="icons" align="center">
